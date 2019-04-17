@@ -34,6 +34,8 @@ Chao Yin: Completed Candidate Search, Feature Scoring and Model Evaluation accor
 
 Xin Xia: Completed error detection part from paper D2 and worked on measurement with Chao Yin.
 
+Zongbo Cai: Completed parameters tunning and training for AdaBoost. Provided data for measurement.
+
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
