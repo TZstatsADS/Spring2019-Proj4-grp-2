@@ -16,7 +16,7 @@ Term: Spring 2019
 
 + Project summary: In this project, we created an OCR post-processing procedure to enhance Tesseract OCR output. We convert scanned images into machine readable character streams and process raw scanned images relying on the Tessearct OCR machine
 
-![image](figs/example 3.png)
+![image](figs/example3.png)
 
 + Methods:
 	1. Rule-based techniques
@@ -30,7 +30,7 @@ Term: Spring 2019
 	1.  Precision: is the percentage of correctly found words with respect to the total word count of the OCR output
 	2.  Recall: the percentage of words in the original text correctly found by the OCR engine
 
-![image](figs/example 2.png)
+![image](figs/example2.png)
 
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
