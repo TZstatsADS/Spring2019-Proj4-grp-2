@@ -40,6 +40,8 @@ Xin Xia: Completed error detection part from paper D1 and worked on measurement 
 
 Zongbo Cai: Completed parameters tunning and training for AdaBoost. Provided data for measurement.
 
+Shiwei Hua: Integrated the python notebook into main and test the validation of code. Edit Readme and prepared the slides for Presentation.
+
 Charlie Chen: Completed data collection and data cleaning. Cleaned mismatched lines in documents and prepared model-ready datasets for further machine learning process.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
