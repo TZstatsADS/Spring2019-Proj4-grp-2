@@ -28,6 +28,8 @@ Term: Spring 2019
 
 Chao Yin: Completed Candidate Search, Feature Scoring and Model Evaluation according to paper C2. Worked on Measurement with Xin Xia.
 
+Xin Xia: Completed error detection part from paper D2 and worked on measurement with Chao Yin.
+
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
