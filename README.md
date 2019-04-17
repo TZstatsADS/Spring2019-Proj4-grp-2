@@ -16,9 +16,13 @@ Term: Spring 2019
 
 + Project summary: In this project, we created an OCR post-processing procedure to enhance Tesseract OCR output. We convert scanned images into machine readable character streams and process raw scanned images relying on the Tessearct OCR machine
 
++ Methods:
+	1. Rule-based techniques
+	2. Supervised model – correction regressor
+
 + Feature extracted: Levenshtein edit distance, String similarity, Language popularity, Lexicon existance,  Exact-context popularity, and Relaxed-context popularity.
 
-+ Model: AdaBoost with Parameters (__________)
++ Model: AdaBoost with Parameters: learning_rate = 0.01, loss = 'exponential', n_estimators = 50, random_state = None
 
 + Evaluation on:
 	1.  Precision: is the percentage of correctly found words with respect to the total word count of the OCR output
