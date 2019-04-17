@@ -16,6 +16,8 @@ Term: Spring 2019
 
 + Project summary: In this project, we created an OCR post-processing procedure to enhance Tesseract OCR output. We convert scanned images into machine readable character streams and process raw scanned images relying on the Tessearct OCR machine
 
+![image](figs/example 3.jpg)
+
 + Methods:
 	1. Rule-based techniques
 	2. Supervised model – correction regressor
@@ -28,11 +30,13 @@ Term: Spring 2019
 	1.  Precision: is the percentage of correctly found words with respect to the total word count of the OCR output
 	2.  Recall: the percentage of words in the original text correctly found by the OCR engine
 
+![image](figs/example 2.jpg)
+
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 Chao Yin: Completed Candidate Search, Feature Scoring and Model Evaluation according to paper C2. Worked on Measurement with Xin Xia.
 
-Xin Xia: Completed error detection part from paper D2 and worked on measurement with Chao Yin.
+Xin Xia: Completed error detection part from paper D1 and worked on measurement with Chao Yin.
 
 Zongbo Cai: Completed parameters tunning and training for AdaBoost. Provided data for measurement.
 
